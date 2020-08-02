@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings! Welcome to my Github Profile, I have a long Indian name (Panchajanya) but I also go by a slightly shorter Indian name (Pancham). 
 
 <!--
 **panchambanerjee/panchambanerjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
