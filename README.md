@@ -1,6 +1,7 @@
 ### Greetings! 
 
 Welcome to my Github Profile; I have a long Indian name (Panchajanya) but I also go by a slightly shorter Indian name (Pancham). 
+
 Find me on LinkedIn: https://www.linkedin.com/in/panchajanya-banerjee/
 
 I currently work as a Data Scientist on the Customer Intelligence and Analytics Team at Consumers Energy. 
