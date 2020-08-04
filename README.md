@@ -9,7 +9,7 @@ I currently work as a Data Scientist on the Customer Intelligence and Analytics 
 I completed my PhD from the University of Southern California in 2019, working primarily on Computational Astrophysics. Present obsessions include Tensorflow, Deep Reinforcement Learning, 2D Game Design and Electronic Music Production.
 
 Current active projects: 
-- access-spotify - A Python package to query the spotify API for all the music data one could possibly want, to visualize, analyze etc etc
+- access-spotify - A Python package to query the spotify API for all the music data one could possibly want, to visualize, analyze etc etc --> https://github.com/panchambanerjee/access_spotify
 - convnet-feature-extractor - A Python package to extract and visualize features from different ConvNet architectures
 - fpl-data-analyzer - A Python package to download and analyze the data for the Fantasy Premier League 2020-21
 
