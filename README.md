@@ -4,7 +4,7 @@ Welcome to my Github Profile; I have a long Indian name (Panchajanya) but I also
 
 Find me on LinkedIn: https://www.linkedin.com/in/panchajanya-banerjee/
 
-I currently work as a Data Scientist on the Customer Intelligence and Analytics Team at Consumers Energy. 
+I have been working as a Data Scientist at Pacific Data Integrators since February, 2023. 
 
 I completed my PhD from the University of Southern California in 2019, working primarily on Computational Astrophysics. Present obsessions include Tensorflow, Deep Reinforcement Learning, 2D Game Design and Electronic Music Production.
 
