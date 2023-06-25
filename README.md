@@ -18,11 +18,6 @@ Projects in the backlog:
 - convnet-feature-extractor - A Python package to extract and visualize features from different ConvNet architectures
 - fpl-data-analyzer - A Python package to download and analyze the data for the Fantasy Premier League 2020-21
 
-I have also been toying with generating neural network based visual art and music, though these efforts are still in their nascent stages. 
-
-I am currently in the process of mastering my first album (EP?) for release on streaming services. You can check out the draft version on my Soundcloud: https://soundcloud.com/howdoesinstantkarmasleep/sets/songs-for-floating-first-draft
-
-<!--
 **panchambanerjee/panchambanerjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
