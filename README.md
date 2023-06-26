@@ -9,6 +9,7 @@ I have been working as a Data Scientist at Pacific Data Integrators since Februa
 I completed my PhD from the University of Southern California in 2019, working primarily on Computational Astrophysics. Present obsessions include Tensorflow, Deep Reinforcement Learning, 2D Game Design and Electronic Music Production.
 
 Active projects:
+- Ask-ArXiv, a research helper bot
 - Build a multi-functional chatbot using the OpenAI API (Custom documents, text query, tabular query)
 - Add vector memory
 - Build and deploy a streamlit webapp for the chatbot
