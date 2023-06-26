@@ -10,8 +10,7 @@ I completed my PhD from the University of Southern California in 2019, working p
 
 Active projects:
 - Ask-ArXiv, a research helper bot
-- Build a multi-functional chatbot using the OpenAI API (Custom documents, text query, tabular query)
-- Build and deploy a streamlit webapp for the chatbot
+- Build and deploy a multi-functional chatbot using the OpenAI API (Custom documents, text query, tabular query)
 
 Projects in the backlog: 
 - access-spotify - A Python package to query the spotify API for all the music data one could possibly want, to visualize, analyze etc etc --> https://github.com/panchambanerjee/access_spotify
