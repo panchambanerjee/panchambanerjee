@@ -9,8 +9,8 @@ I have been working as a Data Scientist at Pacific Data Integrators since Februa
 I completed my PhD from the University of Southern California in 2019, working primarily on Computational Astrophysics. Present obsessions include Large Language Models, Deep Reinforcement Learning, 2D Game Design and Electronic Music Production.
 
 Active projects:
-- Ask-ArXiv, a research helper bot
-- Build and deploy a multi-functional chatbot using the OpenAI API (Custom documents, text query, tabular query)
+- AdLLama: For all your advertising needs! (Generate product names, slogans and logos!)
+- Ask-ArXiv: a research helper bot
 
 Projects in the backlog: 
 - access-spotify - A Python package to query the spotify API for all the music data one could possibly want, to visualize, analyze etc etc --> https://github.com/panchambanerjee/access_spotify
