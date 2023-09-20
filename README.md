@@ -9,7 +9,7 @@ I have been working as a Data Scientist at Pacific Data Integrators since Februa
 I completed my PhD from the University of Southern California in 2019, working primarily on Computational Astrophysics. Present obsessions include Large Language Models, Deep Reinforcement Learning, 2D Game Design and Electronic Music Production.
 
 Active projects:
-- AdLLama: For all your advertising needs! (Generate product names, slogans and logos!)
+- Ad-LLama: For all your advertising needs! (Generate product names, slogans and logos!)
 - Ask-ArXiv: a research helper bot
 
 Projects in the backlog: 
