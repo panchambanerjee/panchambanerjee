@@ -10,6 +10,7 @@ I completed my PhD from the University of Southern California in 2019, working p
 
 Active projects:
 - CitationVerify - Open Source CLI based tool for validating and downloading references in an Arxiv publication
+- Astro-Research-Assistant - Python project for an astrophysics/cosmology/astronomy research assistant built with CrewAI.
 
 Projects in the backlog: 
 - access-spotify - A Python package to query the spotify API for all the music data one could possibly want, to visualize, analyze etc etc --> https://github.com/panchambanerjee/access_spotify
