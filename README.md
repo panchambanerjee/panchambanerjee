@@ -14,11 +14,4 @@ Active projects:
 - Astro-Research-Assistant - Python project for an astrophysics/cosmology/astronomy research assistant built with CrewAI
 - Cosmic Gateway - A web app for going from an astronomy headline to actually understanding it
 
-Projects in the backlog: 
-- access-spotify - A Python package to query the spotify API for all the music data one could possibly want, to visualize, analyze etc etc --> https://github.com/panchambanerjee/access_spotify
-- convnet-feature-extractor - A Python package to extract and visualize features from different ConvNet architectures
-- fpl-data-analyzer - A Python package to download and analyze the data for the Fantasy Premier League 2020-21
-- CosmologyAI: A suite of Data Science, Analytics and LLM-based projects on Cosmology and Extragalactic Astronomy
-- Ad-LLama: For all your advertising needs! (Generate product names, slogans and logos!)
-- Ask-ArXiv: a research helper bot
 
