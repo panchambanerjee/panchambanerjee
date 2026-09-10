@@ -9,10 +9,10 @@ I have been working as a Data Scientist at Pacific Data Integrators since Februa
 I completed my PhD from the University of Southern California in 2019, working primarily on Computational Astrophysics. Present obsessions include Large Language Models, Deep Reinforcement Learning, 2D Game Design and Electronic Music Production.
 
 Active projects:
-- model_probe - An open-source Python framework for adversarial safety testing of language models.
+- model_probe - An open-source Python framework for adversarial safety testing of language models
 - CitationVerify - Open Source CLI based tool for validating and downloading references in an Arxiv publication
-- Astro-Research-Assistant - Python project for an astrophysics/cosmology/astronomy research assistant built with CrewAI.
-- Cosmic Gateway - A web app for going from an astronomy headline to actually understanding it.
+- Astro-Research-Assistant - Python project for an astrophysics/cosmology/astronomy research assistant built with CrewAI
+- Cosmic Gateway - A web app for going from an astronomy headline to actually understanding it
 
 Projects in the backlog: 
 - access-spotify - A Python package to query the spotify API for all the music data one could possibly want, to visualize, analyze etc etc --> https://github.com/panchambanerjee/access_spotify
